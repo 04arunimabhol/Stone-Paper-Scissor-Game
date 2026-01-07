@@ -1,3 +1,4 @@
 # Stone-Paper-Scissor-Game
-using HTML, CSS, JavaScript
+Using HTML, CSS, JavaScript
+<br>
 Author - Arunima Bhol
